@@ -1,3 +1,3 @@
 # doc
 
-[BezierCurve](BezierCurve)
+[BezierCurve](doc/BezierCurve)
